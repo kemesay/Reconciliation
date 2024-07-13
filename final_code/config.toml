@@ -1,0 +1,5 @@
+[server]
+headless = true
+enableCORS = false
+port = 6011
+address = "10.2.125.42"
